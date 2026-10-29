@@ -14,7 +14,7 @@
   <a href="#-sector-overview--market-dynamics"><img src="https://img.shields.io/badge/Market-Analysis-blue?style=flat-square" alt="Market Analysis"></a>
   <a href="#-saas-hosted-platforms"><img src="https://img.shields.io/badge/Platforms-SaaS-green?style=flat-square" alt="SaaS Platforms"></a>
   <a href="#-open-source-github-projects"><img src="https://img.shields.io/badge/Code-Open--Source-orange?style=flat-square" alt="Open-Source"></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Small-Business-Lending/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Small-Business-Lending?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Small-Business-Lending/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Small-Business-Lending?style=social" alt="GitHub_Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Small-Business-Lending/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg?style=flat-square" alt="License"></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -77,9 +77,9 @@ The table below catalogs premier SaaS lending and embedded financing platforms, 
 
 Open-source tooling in small business lending offers customizable backends for loan management systems (LMS), loan origination systems (LOS), and microfinance banking cores. 
 
-The table below is sorted in descending order by **GitHub Star Count**:
+The table below is sorted in descending order by **GitHub Stars_Count**:
 
-| 💻 Repository | ⭐ GitHub Stars | ⚖️ License | 🛠️ Tech Stack | 🎯 Core Focus & Architecture |
+| 💻 Repository | ⭐ GitHub_Stars | ⚖️ License | 🛠️ Tech Stack | 🎯 Core Focus & Architecture |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Apache Fineract](https://github.com/apache/fineract)** | [![Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Apache-2.0 | Java, Spring Boot, MySQL/PostgreSQL | Enterprise-grade core banking engine for digital microfinance, loan portfolio administration, multi-currency credit rules, and accrual accounting. |
 | **[Mifos X Web App](https://github.com/openMF/web-app)** | [![Stars](https://img.shields.io/github/stars/openMF/web-app?style=social&color=white)](https://github.com/openMF/web-app/stargazers) | MPL-2.0 | Angular, TypeScript, Bootstrap | Standard modern single-page web UI for Apache Fineract, delivering loan officer portals, client KYC tracking, and credit disbursement management. |
@@ -124,7 +124,7 @@ Contributions are warmly welcomed! Please help expand this ecosystem guide:
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-lending-platform`.
 3. 📝 **Add your entry** to the appropriate table or section following the established format:
    - Platform / Repository Name with official URL
-   - Transparent, verified pricing & free tier parameters (or GitHub star count and tech stack)
+   - Transparent, verified pricing & free tier parameters (or GitHub Stars_Count and tech stack)
    - Objective, factual architectural summary
 4. 🚀 **Commit and push** your changes.
 5. 📬 **Open a Pull Request** with a brief summary of the project.
